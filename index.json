@@ -1,0 +1,2738 @@
+﻿[
+    {
+        "id":  "aku_lapar",
+        "title":  "Aku Lapar",
+        "file":  "aku_lapar.mp3",
+        "repo":  1,
+        "path":  "aku_lapar.mp3",
+        "size":  4412720
+    },
+    {
+        "id":  "angin_sepoi",
+        "title":  "Angin Sepoi",
+        "file":  "angin_sepoi.mp3",
+        "repo":  1,
+        "path":  "angin_sepoi.mp3",
+        "size":  4880893
+    },
+    {
+        "id":  "anis_cendana",
+        "title":  "Anis Cendana",
+        "file":  "anis_cendana.mp3",
+        "repo":  1,
+        "path":  "anis_cendana.mp3",
+        "size":  18276466
+    },
+    {
+        "id":  "anis_kembang_betina_type_1",
+        "title":  "Anis Kembang Betina Type 1",
+        "file":  "anis_kembang_betina_type_1.mp3",
+        "repo":  1,
+        "path":  "anis_kembang_betina_type_1.mp3",
+        "size":  19802431
+    },
+    {
+        "id":  "anis_kembang_betina_type_2",
+        "title":  "Anis Kembang Betina Type 2",
+        "file":  "anis_kembang_betina_type_2.mp3",
+        "repo":  1,
+        "path":  "anis_kembang_betina_type_2.mp3",
+        "size":  20641782
+    },
+    {
+        "id":  "anis_kembang_new",
+        "title":  "Anis Kembang New",
+        "file":  "anis_kembang_new.mp3",
+        "repo":  1,
+        "path":  "anis_kembang_new.mp3",
+        "size":  20948341
+    },
+    {
+        "id":  "anis_macan",
+        "title":  "Anis Macan",
+        "file":  "anis_macan.mp3",
+        "repo":  1,
+        "path":  "anis_macan.mp3",
+        "size":  19680234
+    },
+    {
+        "id":  "anis_merah_nembak_prenjak_betina_gereja_tarung",
+        "title":  "Anis Merah Nembak Prenjak Betina Gereja Tarung",
+        "file":  "anis_merah_nembak_prenjak_betina_gereja_tarung.mp3",
+        "repo":  1,
+        "path":  "anis_merah_nembak_prenjak_betina_gereja_tarung.mp3",
+        "size":  15539805
+    },
+    {
+        "id":  "anis_merah_teler",
+        "title":  "Anis Merah Teler",
+        "file":  "anis_merah_teler.mp3",
+        "repo":  1,
+        "path":  "anis_merah_teler.mp3",
+        "size":  19677321
+    },
+    {
+        "id":  "anis_siberia",
+        "title":  "Anis Siberia",
+        "file":  "anis_siberia.mp3",
+        "repo":  1,
+        "path":  "anis_siberia.mp3",
+        "size":  22841529
+    },
+    {
+        "id":  "apa_kabar_bos",
+        "title":  "Apa Kabar Bos",
+        "file":  "apa_kabar_bos.mp3",
+        "repo":  1,
+        "path":  "apa_kabar_bos.mp3",
+        "size":  38974166
+    },
+    {
+        "id":  "assallamulaikum",
+        "title":  "Assallamulaikum",
+        "file":  "assallamulaikum.mp3",
+        "repo":  1,
+        "path":  "assallamulaikum.mp3",
+        "size":  17283049
+    },
+    {
+        "id":  "ayam_hutan_betina_pikat",
+        "title":  "Ayam Hutan Betina Pikat",
+        "file":  "ayam_hutan_betina_pikat.mp3",
+        "repo":  1,
+        "path":  "ayam_hutan_betina_pikat.mp3",
+        "size":  14813809
+    },
+    {
+        "id":  "bagi_donk",
+        "title":  "Bagi Donk",
+        "file":  "bagi_donk.mp3",
+        "repo":  1,
+        "path":  "bagi_donk.mp3",
+        "size":  17892668
+    },
+    {
+        "id":  "bapak_ada_tamu",
+        "title":  "Bapak Ada Tamu",
+        "file":  "bapak_ada_tamu.mp3",
+        "repo":  1,
+        "path":  "bapak_ada_tamu.mp3",
+        "size":  36445605
+    },
+    {
+        "id":  "batuk",
+        "title":  "Batuk",
+        "file":  "batuk.mp3",
+        "repo":  1,
+        "path":  "batuk.mp3",
+        "size":  32378414
+    },
+    {
+        "id":  "belalang_emas1",
+        "title":  "Belalang Emas1",
+        "file":  "belalang_emas1.mp3",
+        "repo":  1,
+        "path":  "belalang_emas1.mp3",
+        "size":  5010511
+    },
+    {
+        "id":  "belalang_emas_belalang_kecek_tengkek_buti_lovebird",
+        "title":  "Belalang Emas Belalang Kecek Tengkek Buti Lovebird",
+        "file":  "belalang_emas_belalang_kecek_tengkek_buti_lovebird.mp3",
+        "repo":  1,
+        "path":  "belalang_emas_belalang_kecek_tengkek_buti_lovebird.mp3",
+        "size":  10363670
+    },
+    {
+        "id":  "belalang_emas_walang_kecek_jangkrik",
+        "title":  "Belalang Emas Walang Kecek Jangkrik",
+        "file":  "belalang_emas_walang_kecek_jangkrik.mp3",
+        "repo":  1,
+        "path":  "belalang_emas_walang_kecek_jangkrik.mp3",
+        "size":  16787546
+    },
+    {
+        "id":  "belalang_jangkrik_cililin_1",
+        "title":  "Belalang Jangkrik Cililin 1",
+        "file":  "belalang_jangkrik_cililin_1.mp3",
+        "repo":  1,
+        "path":  "belalang_jangkrik_cililin_1.mp3",
+        "size":  15277615
+    },
+    {
+        "id":  "belibis_2_pikat",
+        "title":  "Belibis 2 Pikat",
+        "file":  "belibis_2_pikat.mp3",
+        "repo":  1,
+        "path":  "belibis_2_pikat.mp3",
+        "size":  3461953
+    },
+    {
+        "id":  "belibis_batu_pikat",
+        "title":  "Belibis Batu Pikat",
+        "file":  "belibis_batu_pikat.mp3",
+        "repo":  1,
+        "path":  "belibis_batu_pikat.mp3",
+        "size":  15315385
+    },
+    {
+        "id":  "belibis_selow_peed",
+        "title":  "Belibis Selow Peed",
+        "file":  "belibis_selow_peed.mp3",
+        "repo":  1,
+        "path":  "belibis_selow_peed.mp3",
+        "size":  14241385
+    },
+    {
+        "id":  "berhitung_1_10",
+        "title":  "Berhitung 1 10",
+        "file":  "berhitung_1_10.mp3",
+        "repo":  1,
+        "path":  "berhitung_1_10.mp3",
+        "size":  33944882
+    },
+    {
+        "id":  "betet_pikat",
+        "title":  "Betet Pikat",
+        "file":  "betet_pikat.mp3",
+        "repo":  1,
+        "path":  "betet_pikat.mp3",
+        "size":  10099513
+    },
+    {
+        "id":  "blackthroat",
+        "title":  "Blackthroat",
+        "file":  "blackthroat.mp3",
+        "repo":  1,
+        "path":  "blackthroat.mp3",
+        "size":  15457280
+    },
+    {
+        "id":  "black_hodeed_siskin",
+        "title":  "Black Hodeed Siskin",
+        "file":  "black_hodeed_siskin.mp3",
+        "repo":  1,
+        "path":  "black_hodeed_siskin.mp3",
+        "size":  14463571
+    },
+    {
+        "id":  "branjangan",
+        "title":  "Branjangan",
+        "file":  "branjangan.mp3",
+        "repo":  1,
+        "path":  "branjangan.mp3",
+        "size":  20081277
+    },
+    {
+        "id":  "branjangan_red_siskin_sikatan_londo",
+        "title":  "Branjangan Red Siskin Sikatan Londo",
+        "file":  "branjangan_red_siskin_sikatan_londo.mp3",
+        "repo":  1,
+        "path":  "branjangan_red_siskin_sikatan_londo.mp3",
+        "size":  7823827
+    },
+    {
+        "id":  "brinji_crecetan_rambut_tungir",
+        "title":  "Brinji Crecetan Rambut Tungir",
+        "file":  "brinji_crecetan_rambut_tungir.mp3",
+        "repo":  1,
+        "path":  "brinji_crecetan_rambut_tungir.mp3",
+        "size":  18843327
+    },
+    {
+        "id":  "brinji_kelabu",
+        "title":  "Brinji Kelabu",
+        "file":  "brinji_kelabu.mp3",
+        "repo":  1,
+        "path":  "brinji_kelabu.mp3",
+        "size":  19701462
+    },
+    {
+        "id":  "burung_branjangan_betina",
+        "title":  "Burung Branjangan Betina",
+        "file":  "burung_branjangan_betina.mp3",
+        "repo":  1,
+        "path":  "burung_branjangan_betina.mp3",
+        "size":  12463990
+    },
+    {
+        "id":  "burung_parkit",
+        "title":  "Burung Parkit",
+        "file":  "burung_parkit.mp3",
+        "repo":  1,
+        "path":  "burung_parkit.mp3",
+        "size":  43886697
+    },
+    {
+        "id":  "buto_love_bird",
+        "title":  "Buto Love Bird",
+        "file":  "buto_love_bird.mp3",
+        "repo":  1,
+        "path":  "buto_love_bird.mp3",
+        "size":  15222785
+    },
+    {
+        "id":  "bye_bye",
+        "title":  "Bye Bye",
+        "file":  "bye_bye.mp3",
+        "repo":  1,
+        "path":  "bye_bye.mp3",
+        "size":  57054924
+    },
+    {
+        "id":  "cabe_cabean",
+        "title":  "Cabe Cabean",
+        "file":  "cabe_cabean.mp3",
+        "repo":  1,
+        "path":  "cabe_cabean.mp3",
+        "size":  21801541
+    },
+    {
+        "id":  "cendet2_air",
+        "title":  "Cendet2 Air",
+        "file":  "cendet2_air.mp3",
+        "repo":  1,
+        "path":  "cendet2_air.mp3",
+        "size":  27553875
+    },
+    {
+        "id":  "cendet_armagedon",
+        "title":  "Cendet Armagedon",
+        "file":  "cendet_armagedon.mp3",
+        "repo":  1,
+        "path":  "cendet_armagedon.mp3",
+        "size":  29148371
+    },
+    {
+        "id":  "cendet_full_varian",
+        "title":  "Cendet Full Varian",
+        "file":  "cendet_full_varian.mp3",
+        "repo":  1,
+        "path":  "cendet_full_varian.mp3",
+        "size":  63610463
+    },
+    {
+        "id":  "cendet_macan",
+        "title":  "Cendet Macan",
+        "file":  "cendet_macan.mp3",
+        "repo":  1,
+        "path":  "cendet_macan.mp3",
+        "size":  14967309
+    },
+    {
+        "id":  "cendet_pentet_rol",
+        "title":  "Cendet Pentet Rol",
+        "file":  "cendet_pentet_rol.mp3",
+        "repo":  1,
+        "path":  "cendet_pentet_rol.mp3",
+        "size":  12863234
+    },
+    {
+        "id":  "cendet_petir_air",
+        "title":  "Cendet Petir Air",
+        "file":  "cendet_petir_air.mp3",
+        "repo":  1,
+        "path":  "cendet_petir_air.mp3",
+        "size":  12625013
+    },
+    {
+        "id":  "cendet_roll_nembak_variasi_ziper_roll_nembak_robin_roll_nembak",
+        "title":  "Cendet Roll Nembak Variasi Ziper Roll Nembak Robin Roll Nembak",
+        "file":  "cendet_roll_nembak_variasi_ziper_roll_nembak_robin_roll_nembak.mp3",
+        "repo":  1,
+        "path":  "cendet_roll_nembak_variasi_ziper_roll_nembak_robin_roll_nembak.mp3",
+        "size":  13848346
+    },
+    {
+        "id":  "cendet_sumatera",
+        "title":  "Cendet Sumatera",
+        "file":  "cendet_sumatera.mp3",
+        "repo":  1,
+        "path":  "cendet_sumatera.mp3",
+        "size":  17472654
+    },
+    {
+        "id":  "cewek",
+        "title":  "Cewek",
+        "file":  "cewek.mp3",
+        "repo":  1,
+        "path":  "cewek.mp3",
+        "size":  8863297
+    },
+    {
+        "id":  "ciblek_a47_new",
+        "title":  "Ciblek A47 New",
+        "file":  "ciblek_a47_new.mp3",
+        "repo":  1,
+        "path":  "ciblek_a47_new.mp3",
+        "size":  14901797
+    },
+    {
+        "id":  "ciblek_bren_rapat_kenari_nembak_blackstrut",
+        "title":  "Ciblek Bren Rapat Kenari Nembak Blackstrut",
+        "file":  "ciblek_bren_rapat_kenari_nembak_blackstrut.mp3",
+        "repo":  1,
+        "path":  "ciblek_bren_rapat_kenari_nembak_blackstrut.mp3",
+        "size":  14852849
+    },
+    {
+        "id":  "ciblek_cigun_cungkok",
+        "title":  "Ciblek Cigun Cungkok",
+        "file":  "ciblek_cigun_cungkok.mp3",
+        "repo":  1,
+        "path":  "ciblek_cigun_cungkok.mp3",
+        "size":  15505641
+    },
+    {
+        "id":  "ciblek_cililin_kolibri",
+        "title":  "Ciblek Cililin Kolibri",
+        "file":  "ciblek_cililin_kolibri.mp3",
+        "repo":  1,
+        "path":  "ciblek_cililin_kolibri.mp3",
+        "size":  7346291
+    },
+    {
+        "id":  "ciblek_cililin_sikatan_londo_parkit_kenari",
+        "title":  "Ciblek Cililin Sikatan Londo Parkit Kenari",
+        "file":  "ciblek_cililin_sikatan_londo_parkit_kenari.mp3",
+        "repo":  1,
+        "path":  "ciblek_cililin_sikatan_londo_parkit_kenari.mp3",
+        "size":  13331843
+    },
+    {
+        "id":  "ciblek_gunung",
+        "title":  "Ciblek Gunung",
+        "file":  "ciblek_gunung.mp3",
+        "repo":  1,
+        "path":  "ciblek_gunung.mp3",
+        "size":  3153937
+    },
+    {
+        "id":  "ciblek_gunung_ngebren",
+        "title":  "Ciblek Gunung Ngebren",
+        "file":  "ciblek_gunung_ngebren.mp3",
+        "repo":  1,
+        "path":  "ciblek_gunung_ngebren.mp3",
+        "size":  13523241
+    },
+    {
+        "id":  "ciblek_gunung_prenjak_betina",
+        "title":  "Ciblek Gunung Prenjak Betina",
+        "file":  "ciblek_gunung_prenjak_betina.mp3",
+        "repo":  1,
+        "path":  "ciblek_gunung_prenjak_betina.mp3",
+        "size":  30556555
+    },
+    {
+        "id":  "ciblek_new",
+        "title":  "Ciblek New",
+        "file":  "ciblek_new.mp3",
+        "repo":  1,
+        "path":  "ciblek_new.mp3",
+        "size":  15732265
+    },
+    {
+        "id":  "ciblek_ngebren_tanpa_air",
+        "title":  "Ciblek Ngebren Tanpa Air",
+        "file":  "ciblek_ngebren_tanpa_air.mp3",
+        "repo":  1,
+        "path":  "ciblek_ngebren_tanpa_air.mp3",
+        "size":  19353198
+    },
+    {
+        "id":  "ciblek_pikat",
+        "title":  "Ciblek Pikat",
+        "file":  "ciblek_pikat.mp3",
+        "repo":  1,
+        "path":  "ciblek_pikat.mp3",
+        "size":  5290033
+    },
+    {
+        "id":  "ciblek_sawah_betina",
+        "title":  "Ciblek Sawah Betina",
+        "file":  "ciblek_sawah_betina.mp3",
+        "repo":  1,
+        "path":  "ciblek_sawah_betina.mp3",
+        "size":  15167581
+    },
+    {
+        "id":  "ciblek_tebu_pikat",
+        "title":  "Ciblek Tebu Pikat",
+        "file":  "ciblek_tebu_pikat.mp3",
+        "repo":  1,
+        "path":  "ciblek_tebu_pikat.mp3",
+        "size":  3164833
+    },
+    {
+        "id":  "cililin_coklat_type_1_air",
+        "title":  "Cililin Coklat Type 1 Air",
+        "file":  "cililin_coklat_type_1_air.mp3",
+        "repo":  1,
+        "path":  "cililin_coklat_type_1_air.mp3",
+        "size":  19040998
+    },
+    {
+        "id":  "cililin_coklat_type_1_jeda_air",
+        "title":  "Cililin Coklat Type 1 Jeda Air",
+        "file":  "cililin_coklat_type_1_jeda_air.mp3",
+        "repo":  1,
+        "path":  "cililin_coklat_type_1_jeda_air.mp3",
+        "size":  14081146
+    },
+    {
+        "id":  "cililin_coklat_type_1_tanpa_air_2",
+        "title":  "Cililin Coklat Type 1 Tanpa Air 2",
+        "file":  "cililin_coklat_type_1_tanpa_air_2.mp3",
+        "repo":  1,
+        "path":  "cililin_coklat_type_1_tanpa_air_2.mp3",
+        "size":  16788310
+    },
+    {
+        "id":  "cililin_hitam_air",
+        "title":  "Cililin Hitam Air",
+        "file":  "cililin_hitam_air.mp3",
+        "repo":  1,
+        "path":  "cililin_hitam_air.mp3",
+        "size":  13730074
+    },
+    {
+        "id":  "cililin_hitam_jeda_air",
+        "title":  "Cililin Hitam Jeda Air",
+        "file":  "cililin_hitam_jeda_air.mp3",
+        "repo":  1,
+        "path":  "cililin_hitam_jeda_air.mp3",
+        "size":  13021549
+    },
+    {
+        "id":  "cililin_hitam_tanpa_air",
+        "title":  "Cililin Hitam Tanpa Air",
+        "file":  "cililin_hitam_tanpa_air.mp3",
+        "repo":  1,
+        "path":  "cililin_hitam_tanpa_air.mp3",
+        "size":  16044799
+    },
+    {
+        "id":  "cililin_kapas_tembak",
+        "title":  "Cililin Kapas Tembak",
+        "file":  "cililin_kapas_tembak.mp3",
+        "repo":  1,
+        "path":  "cililin_kapas_tembak.mp3",
+        "size":  15044071
+    },
+    {
+        "id":  "cililin_kapas_tembak_kenari",
+        "title":  "Cililin Kapas Tembak Kenari",
+        "file":  "cililin_kapas_tembak_kenari.mp3",
+        "repo":  1,
+        "path":  "cililin_kapas_tembak_kenari.mp3",
+        "size":  59695154
+    },
+    {
+        "id":  "cililin_kenari",
+        "title":  "Cililin Kenari",
+        "file":  "cililin_kenari.mp3",
+        "repo":  1,
+        "path":  "cililin_kenari.mp3",
+        "size":  37454274
+    },
+    {
+        "id":  "cililin_kenari_2",
+        "title":  "Cililin Kenari 2",
+        "file":  "cililin_kenari_2.mp3",
+        "repo":  1,
+        "path":  "cililin_kenari_2.mp3",
+        "size":  18609952
+    },
+    {
+        "id":  "cililin_ngerol_cucak_jenggot_lovebird",
+        "title":  "Cililin Ngerol Cucak Jenggot Lovebird",
+        "file":  "cililin_ngerol_cucak_jenggot_lovebird.mp3",
+        "repo":  1,
+        "path":  "cililin_ngerol_cucak_jenggot_lovebird.mp3",
+        "size":  11368560
+    },
+    {
+        "id":  "cililin_prenjak_betina",
+        "title":  "Cililin Prenjak Betina",
+        "file":  "cililin_prenjak_betina.mp3",
+        "repo":  1,
+        "path":  "cililin_prenjak_betina.mp3",
+        "size":  17122964
+    },
+    {
+        "id":  "cucak_cungkok",
+        "title":  "Cucak Cungkok",
+        "file":  "cucak_cungkok.mp3",
+        "repo":  1,
+        "path":  "cucak_cungkok.mp3",
+        "size":  12468638
+    },
+    {
+        "id":  "cucak_cungkok_isian_gereja",
+        "title":  "Cucak Cungkok Isian Gereja",
+        "file":  "cucak_cungkok_isian_gereja.mp3",
+        "repo":  1,
+        "path":  "cucak_cungkok_isian_gereja.mp3",
+        "size":  12514339
+    },
+    {
+        "id":  "cucak_cungko_rambatan_doremon_cililin",
+        "title":  "Cucak Cungko Rambatan Doremon Cililin",
+        "file":  "cucak_cungko_rambatan_doremon_cililin.mp3",
+        "repo":  1,
+        "path":  "cucak_cungko_rambatan_doremon_cililin.mp3",
+        "size":  15643670
+    },
+    {
+        "id":  "cucak_ijo_banyuwangi",
+        "title":  "Cucak Ijo Banyuwangi",
+        "file":  "cucak_ijo_banyuwangi.mp3",
+        "repo":  1,
+        "path":  "cucak_ijo_banyuwangi.mp3",
+        "size":  14680415
+    },
+    {
+        "id":  "cucak_ijo_crecetan_gereja",
+        "title":  "Cucak Ijo Crecetan Gereja",
+        "file":  "cucak_ijo_crecetan_gereja.mp3",
+        "repo":  1,
+        "path":  "cucak_ijo_crecetan_gereja.mp3",
+        "size":  13552602
+    },
+    {
+        "id":  "cucak_ijo_kalimantan",
+        "title":  "Cucak Ijo Kalimantan",
+        "file":  "cucak_ijo_kalimantan.mp3",
+        "repo":  1,
+        "path":  "cucak_ijo_kalimantan.mp3",
+        "size":  14962878
+    },
+    {
+        "id":  "cucak_ijo_pikat",
+        "title":  "Cucak Ijo Pikat",
+        "file":  "cucak_ijo_pikat.mp3",
+        "repo":  1,
+        "path":  "cucak_ijo_pikat.mp3",
+        "size":  3240576
+    },
+    {
+        "id":  "cucak_ijo_tembakan_kasar",
+        "title":  "Cucak Ijo Tembakan Kasar",
+        "file":  "cucak_ijo_tembakan_kasar.mp3",
+        "repo":  1,
+        "path":  "cucak_ijo_tembakan_kasar.mp3",
+        "size":  15090825
+    },
+    {
+        "id":  "cucak_jenggot",
+        "title":  "Cucak Jenggot",
+        "file":  "cucak_jenggot.mp3",
+        "repo":  1,
+        "path":  "cucak_jenggot.mp3",
+        "size":  14241502
+    },
+    {
+        "id":  "cucak_jenggot_isian_lovebird",
+        "title":  "Cucak Jenggot Isian Lovebird",
+        "file":  "cucak_jenggot_isian_lovebird.mp3",
+        "repo":  1,
+        "path":  "cucak_jenggot_isian_lovebird.mp3",
+        "size":  14219981
+    },
+    {
+        "id":  "cucak_jenggot_ngepik_lanjut_beset",
+        "title":  "Cucak Jenggot Ngepik Lanjut Beset",
+        "file":  "cucak_jenggot_ngepik_lanjut_beset.mp3",
+        "repo":  1,
+        "path":  "cucak_jenggot_ngepik_lanjut_beset.mp3",
+        "size":  12650498
+    },
+    {
+        "id":  "cucak_jenggot_tanpa_air",
+        "title":  "Cucak Jenggot Tanpa Air",
+        "file":  "cucak_jenggot_tanpa_air.mp3",
+        "repo":  1,
+        "path":  "cucak_jenggot_tanpa_air.mp3",
+        "size":  14503687
+    },
+    {
+        "id":  "cucak_kerinci_dengan_air",
+        "title":  "Cucak Kerinci Dengan Air",
+        "file":  "cucak_kerinci_dengan_air.mp3",
+        "repo":  1,
+        "path":  "cucak_kerinci_dengan_air.mp3",
+        "size":  14832263
+    },
+    {
+        "id":  "cucak_kombo",
+        "title":  "Cucak Kombo",
+        "file":  "cucak_kombo.mp3",
+        "repo":  1,
+        "path":  "cucak_kombo.mp3",
+        "size":  21689272
+    },
+    {
+        "id":  "cucak_rowo",
+        "title":  "Cucak Rowo",
+        "file":  "cucak_rowo.mp3",
+        "repo":  1,
+        "path":  "cucak_rowo.mp3",
+        "size":  17353591
+    },
+    {
+        "id":  "cucak_rowo_di_hutan_buatan",
+        "title":  "Cucak Rowo Di Hutan Buatan",
+        "file":  "cucak_rowo_di_hutan_buatan.mp3",
+        "repo":  1,
+        "path":  "cucak_rowo_di_hutan_buatan.mp3",
+        "size":  23186299
+    },
+    {
+        "id":  "cucak_rowo_emas",
+        "title":  "Cucak Rowo Emas",
+        "file":  "cucak_rowo_emas.mp3",
+        "repo":  1,
+        "path":  "cucak_rowo_emas.mp3",
+        "size":  19570523
+    },
+    {
+        "id":  "cucak_rowo_gacor_engkel",
+        "title":  "Cucak Rowo Gacor Engkel",
+        "file":  "cucak_rowo_gacor_engkel.mp3",
+        "repo":  1,
+        "path":  "cucak_rowo_gacor_engkel.mp3",
+        "size":  19228727
+    },
+    {
+        "id":  "cungkok_betina",
+        "title":  "Cungkok Betina",
+        "file":  "cungkok_betina.mp3",
+        "repo":  1,
+        "path":  "cungkok_betina.mp3",
+        "size":  15049513
+    },
+    {
+        "id":  "cungkok_isian_mewah",
+        "title":  "Cungkok Isian Mewah",
+        "file":  "cungkok_isian_mewah.mp3",
+        "repo":  1,
+        "path":  "cungkok_isian_mewah.mp3",
+        "size":  10453299
+    },
+    {
+        "id":  "cungkok_roll_gereja_roll_kenari_roll",
+        "title":  "Cungkok Roll Gereja Roll Kenari Roll",
+        "file":  "cungkok_roll_gereja_roll_kenari_roll.mp3",
+        "repo":  1,
+        "path":  "cungkok_roll_gereja_roll_kenari_roll.mp3",
+        "size":  7818854
+    },
+    {
+        "id":  "cungkok_roll_pedas",
+        "title":  "Cungkok Roll Pedas",
+        "file":  "cungkok_roll_pedas.mp3",
+        "repo":  1,
+        "path":  "cungkok_roll_pedas.mp3",
+        "size":  16062563
+    },
+    {
+        "id":  "cungkok_tembak",
+        "title":  "Cungkok Tembak",
+        "file":  "cungkok_tembak.mp3",
+        "repo":  1,
+        "path":  "cungkok_tembak.mp3",
+        "size":  11259365
+    },
+    {
+        "id":  "cungko_bety_gereja_tarung_cicak_jenggot",
+        "title":  "Cungko Bety Gereja Tarung Cicak Jenggot",
+        "file":  "cungko_bety_gereja_tarung_cicak_jenggot.mp3",
+        "repo":  1,
+        "path":  "cungko_bety_gereja_tarung_cicak_jenggot.mp3",
+        "size":  15535163
+    },
+    {
+        "id":  "ekek_keling",
+        "title":  "Ekek Keling",
+        "file":  "ekek_keling.mp3",
+        "repo":  1,
+        "path":  "ekek_keling.mp3",
+        "size":  16982754
+    },
+    {
+        "id":  "emprit_gacor_full_speed_tembakan_2",
+        "title":  "Emprit Gacor Full Speed Tembakan 2",
+        "file":  "emprit_gacor_full_speed_tembakan_2.mp3",
+        "repo":  1,
+        "path":  "emprit_gacor_full_speed_tembakan_2.mp3",
+        "size":  15502756
+    },
+    {
+        "id":  "falk",
+        "title":  "Falk",
+        "file":  "falk.mp3",
+        "repo":  1,
+        "path":  "falk.mp3",
+        "size":  25238957
+    },
+    {
+        "id":  "falk_selamat_ulang_tahun",
+        "title":  "Falk Selamat Ulang Tahun",
+        "file":  "falk_selamat_ulang_tahun.mp3",
+        "repo":  1,
+        "path":  "falk_selamat_ulang_tahun.mp3",
+        "size":  63761000
+    },
+    {
+        "id":  "fighter_1",
+        "title":  "Fighter 1",
+        "file":  "fighter_1.mp3",
+        "repo":  1,
+        "path":  "fighter_1.mp3",
+        "size":  4233769
+    },
+    {
+        "id":  "fighter_2",
+        "title":  "Fighter 2",
+        "file":  "fighter_2.mp3",
+        "repo":  1,
+        "path":  "fighter_2.mp3",
+        "size":  3731233
+    },
+    {
+        "id":  "full_tembakan_kenari_lovebird_kapas_tembak_cililin_gereja_tarung_air",
+        "title":  "Full Tembakan Kenari Lovebird Kapas Tembak Cililin Gereja Tarung Air",
+        "file":  "full_tembakan_kenari_lovebird_kapas_tembak_cililin_gereja_tarung_air.mp3",
+        "repo":  1,
+        "path":  "full_tembakan_kenari_lovebird_kapas_tembak_cililin_gereja_tarung_air.mp3",
+        "size":  42825888
+    },
+    {
+        "id":  "gabusan_kaca",
+        "title":  "Gabusan Kaca",
+        "file":  "gabusan_kaca.mp3",
+        "repo":  1,
+        "path":  "gabusan_kaca.mp3",
+        "size":  8993786
+    },
+    {
+        "id":  "gelatik",
+        "title":  "Gelatik",
+        "file":  "gelatik.mp3",
+        "repo":  1,
+        "path":  "gelatik.mp3",
+        "size":  28445268
+    },
+    {
+        "id":  "gelatik_batu",
+        "title":  "Gelatik Batu",
+        "file":  "gelatik_batu.mp3",
+        "repo":  2,
+        "path":  "gelatik_batu.mp3",
+        "size":  15787964
+    },
+    {
+        "id":  "gelatik_lb_minor_jalak_suren",
+        "title":  "Gelatik Lb Minor Jalak Suren",
+        "file":  "gelatik_lb_minor_jalak_suren.mp3",
+        "repo":  2,
+        "path":  "gelatik_lb_minor_jalak_suren.mp3",
+        "size":  18054737
+    },
+    {
+        "id":  "gelatik_wingko",
+        "title":  "Gelatik Wingko",
+        "file":  "gelatik_wingko.mp3",
+        "repo":  2,
+        "path":  "gelatik_wingko.mp3",
+        "size":  14609513
+    },
+    {
+        "id":  "gereja",
+        "title":  "Gereja",
+        "file":  "gereja.mp3",
+        "repo":  2,
+        "path":  "gereja.mp3",
+        "size":  14856255
+    },
+    {
+        "id":  "gereja_cililin_ciblek",
+        "title":  "Gereja Cililin Ciblek",
+        "file":  "gereja_cililin_ciblek.mp3",
+        "repo":  2,
+        "path":  "gereja_cililin_ciblek.mp3",
+        "size":  8306471
+    },
+    {
+        "id":  "gereja_gereja_kawin",
+        "title":  "Gereja Gereja Kawin",
+        "file":  "gereja_gereja_kawin.mp3",
+        "repo":  2,
+        "path":  "gereja_gereja_kawin.mp3",
+        "size":  15417726
+    },
+    {
+        "id":  "gereja_kawin_suara_pedes_air",
+        "title":  "Gereja Kawin Suara Pedes Air",
+        "file":  "gereja_kawin_suara_pedes_air.mp3",
+        "repo":  2,
+        "path":  "gereja_kawin_suara_pedes_air.mp3",
+        "size":  15360521
+    },
+    {
+        "id":  "gereja_kawin_suara_pedes_tanpa_air",
+        "title":  "Gereja Kawin Suara Pedes Tanpa Air",
+        "file":  "gereja_kawin_suara_pedes_tanpa_air.mp3",
+        "repo":  2,
+        "path":  "gereja_kawin_suara_pedes_tanpa_air.mp3",
+        "size":  18255923
+    },
+    {
+        "id":  "gereja_ngerol",
+        "title":  "Gereja Ngerol",
+        "file":  "gereja_ngerol.mp3",
+        "repo":  2,
+        "path":  "gereja_ngerol.mp3",
+        "size":  13667747
+    },
+    {
+        "id":  "gereja_prenjak_kolibri",
+        "title":  "Gereja Prenjak Kolibri",
+        "file":  "gereja_prenjak_kolibri.mp3",
+        "repo":  2,
+        "path":  "gereja_prenjak_kolibri.mp3",
+        "size":  684926
+    },
+    {
+        "id":  "gereja_tanpa_air",
+        "title":  "Gereja Tanpa Air",
+        "file":  "gereja_tanpa_air.mp3",
+        "repo":  2,
+        "path":  "gereja_tanpa_air.mp3",
+        "size":  21310803
+    },
+    {
+        "id":  "gereja_tarung",
+        "title":  "Gereja Tarung",
+        "file":  "gereja_tarung.mp3",
+        "repo":  2,
+        "path":  "gereja_tarung.mp3",
+        "size":  14318957
+    },
+    {
+        "id":  "gereja_tarung_kolibri_cililin_pentet",
+        "title":  "Gereja Tarung Kolibri Cililin Pentet",
+        "file":  "gereja_tarung_kolibri_cililin_pentet.mp3",
+        "repo":  2,
+        "path":  "gereja_tarung_kolibri_cililin_pentet.mp3",
+        "size":  11183808
+    },
+    {
+        "id":  "gereja_tarung_speed_rapat",
+        "title":  "Gereja Tarung Speed Rapat",
+        "file":  "gereja_tarung_speed_rapat.mp3",
+        "repo":  2,
+        "path":  "gereja_tarung_speed_rapat.mp3",
+        "size":  11549568
+    },
+    {
+        "id":  "gold_finch",
+        "title":  "Gold Finch",
+        "file":  "gold_finch.mp3",
+        "repo":  2,
+        "path":  "gold_finch.mp3",
+        "size":  9975810
+    },
+    {
+        "id":  "golfinch_zebra_finch_gelatik_jawa_kenari",
+        "title":  "Golfinch Zebra Finch Gelatik Jawa Kenari",
+        "file":  "golfinch_zebra_finch_gelatik_jawa_kenari.mp3",
+        "repo":  2,
+        "path":  "golfinch_zebra_finch_gelatik_jawa_kenari.mp3",
+        "size":  10987134
+    },
+    {
+        "id":  "good_morning",
+        "title":  "Good Morning",
+        "file":  "good_morning.mp3",
+        "repo":  2,
+        "path":  "good_morning.mp3",
+        "size":  52502652
+    },
+    {
+        "id":  "greja_rambatan",
+        "title":  "Greja Rambatan",
+        "file":  "greja_rambatan.mp3",
+        "repo":  2,
+        "path":  "greja_rambatan.mp3",
+        "size":  28752026
+    },
+    {
+        "id":  "hai_cewek",
+        "title":  "Hai Cewek",
+        "file":  "hai_cewek.mp3",
+        "repo":  2,
+        "path":  "hai_cewek.mp3",
+        "size":  56848344
+    },
+    {
+        "id":  "hai_guys",
+        "title":  "Hai Guys",
+        "file":  "hai_guys.mp3",
+        "repo":  2,
+        "path":  "hai_guys.mp3",
+        "size":  21587705
+    },
+    {
+        "id":  "hallo",
+        "title":  "Hallo",
+        "file":  "hallo.mp3",
+        "repo":  2,
+        "path":  "hallo.mp3",
+        "size":  45544352
+    },
+    {
+        "id":  "hallo_apa_kabar",
+        "title":  "Hallo Apa Kabar",
+        "file":  "hallo_apa_kabar.mp3",
+        "repo":  2,
+        "path":  "hallo_apa_kabar.mp3",
+        "size":  20340041
+    },
+    {
+        "id":  "hwamei_wambi",
+        "title":  "Hwamei Wambi",
+        "file":  "hwamei_wambi.mp3",
+        "repo":  2,
+        "path":  "hwamei_wambi.mp3",
+        "size":  8652223
+    },
+    {
+        "id":  "indonesia_only",
+        "title":  "Indonesia Only",
+        "file":  "indonesia_only.mp3",
+        "repo":  2,
+        "path":  "indonesia_only.mp3",
+        "size":  28881647
+    },
+    {
+        "id":  "jagal_papua_gacor",
+        "title":  "Jagal Papua Gacor",
+        "file":  "jagal_papua_gacor.mp3",
+        "repo":  2,
+        "path":  "jagal_papua_gacor.mp3",
+        "size":  7723564
+    },
+    {
+        "id":  "jalak_afrika",
+        "title":  "Jalak Afrika",
+        "file":  "jalak_afrika.mp3",
+        "repo":  2,
+        "path":  "jalak_afrika.mp3",
+        "size":  9936625
+    },
+    {
+        "id":  "jalak_bali",
+        "title":  "Jalak Bali",
+        "file":  "jalak_bali.mp3",
+        "repo":  2,
+        "path":  "jalak_bali.mp3",
+        "size":  8457100
+    },
+    {
+        "id":  "jalak_hongkong",
+        "title":  "Jalak Hongkong",
+        "file":  "jalak_hongkong.mp3",
+        "repo":  2,
+        "path":  "jalak_hongkong.mp3",
+        "size":  9294883
+    },
+    {
+        "id":  "jalak_kerbau",
+        "title":  "Jalak Kerbau",
+        "file":  "jalak_kerbau.mp3",
+        "repo":  2,
+        "path":  "jalak_kerbau.mp3",
+        "size":  9949545
+    },
+    {
+        "id":  "jalak_lawu",
+        "title":  "Jalak Lawu",
+        "file":  "jalak_lawu.mp3",
+        "repo":  2,
+        "path":  "jalak_lawu.mp3",
+        "size":  6996689
+    },
+    {
+        "id":  "jalak_putih",
+        "title":  "Jalak Putih",
+        "file":  "jalak_putih.mp3",
+        "repo":  2,
+        "path":  "jalak_putih.mp3",
+        "size":  9525461
+    },
+    {
+        "id":  "jalak_rio_rio_gacor_air",
+        "title":  "Jalak Rio Rio Gacor Air",
+        "file":  "jalak_rio_rio_gacor_air.mp3",
+        "repo":  2,
+        "path":  "jalak_rio_rio_gacor_air.mp3",
+        "size":  9668573
+    },
+    {
+        "id":  "jalak_suren",
+        "title":  "Jalak Suren",
+        "file":  "jalak_suren.mp3",
+        "repo":  2,
+        "path":  "jalak_suren.mp3",
+        "size":  13687776
+    },
+    {
+        "id":  "jalak_suren_jalak_putih_panca_warna_cucak_ijo",
+        "title":  "Jalak Suren Jalak Putih Panca Warna Cucak Ijo",
+        "file":  "jalak_suren_jalak_putih_panca_warna_cucak_ijo.mp3",
+        "repo":  2,
+        "path":  "jalak_suren_jalak_putih_panca_warna_cucak_ijo.mp3",
+        "size":  11729441
+    },
+    {
+        "id":  "jalak_thailand_kebo_jambul",
+        "title":  "Jalak Thailand Kebo Jambul",
+        "file":  "jalak_thailand_kebo_jambul.mp3",
+        "repo":  2,
+        "path":  "jalak_thailand_kebo_jambul.mp3",
+        "size":  8009681
+    },
+    {
+        "id":  "jangkrik_1",
+        "title":  "Jangkrik 1",
+        "file":  "jangkrik_1.mp3",
+        "repo":  2,
+        "path":  "jangkrik_1.mp3",
+        "size":  4930009
+    },
+    {
+        "id":  "jangkrik_2",
+        "title":  "Jangkrik 2",
+        "file":  "jangkrik_2.mp3",
+        "repo":  2,
+        "path":  "jangkrik_2.mp3",
+        "size":  4025353
+    },
+    {
+        "id":  "jangkrik_boss",
+        "title":  "Jangkrik Boss",
+        "file":  "jangkrik_boss.mp3",
+        "repo":  2,
+        "path":  "jangkrik_boss.mp3",
+        "size":  17180015
+    },
+    {
+        "id":  "jenggot_cililin",
+        "title":  "Jenggot Cililin",
+        "file":  "jenggot_cililin.mp3",
+        "repo":  2,
+        "path":  "jenggot_cililin.mp3",
+        "size":  32269661
+    },
+    {
+        "id":  "jenggot_kapas_tembak_bhs",
+        "title":  "Jenggot Kapas Tembak Bhs",
+        "file":  "jenggot_kapas_tembak_bhs.mp3",
+        "repo":  2,
+        "path":  "jenggot_kapas_tembak_bhs.mp3",
+        "size":  18442573
+    },
+    {
+        "id":  "kacer_betina",
+        "title":  "Kacer Betina",
+        "file":  "kacer_betina.mp3",
+        "repo":  2,
+        "path":  "kacer_betina.mp3",
+        "size":  8763726
+    },
+    {
+        "id":  "kacer_mini_decu_1",
+        "title":  "Kacer Mini Decu 1",
+        "file":  "kacer_mini_decu_1.mp3",
+        "repo":  2,
+        "path":  "kacer_mini_decu_1.mp3",
+        "size":  9815236
+    },
+    {
+        "id":  "kacer_mini_decu_2",
+        "title":  "Kacer Mini Decu 2",
+        "file":  "kacer_mini_decu_2.mp3",
+        "repo":  2,
+        "path":  "kacer_mini_decu_2.mp3",
+        "size":  9417835
+    },
+    {
+        "id":  "kacer_pikat",
+        "title":  "Kacer Pikat",
+        "file":  "kacer_pikat.mp3",
+        "repo":  2,
+        "path":  "kacer_pikat.mp3",
+        "size":  2839633
+    },
+    {
+        "id":  "kacer_tembak_roll",
+        "title":  "Kacer Tembak Roll",
+        "file":  "kacer_tembak_roll.mp3",
+        "repo":  2,
+        "path":  "kacer_tembak_roll.mp3",
+        "size":  26833727
+    },
+    {
+        "id":  "kacer_trotol_jantan",
+        "title":  "Kacer Trotol Jantan",
+        "file":  "kacer_trotol_jantan.mp3",
+        "repo":  2,
+        "path":  "kacer_trotol_jantan.mp3",
+        "size":  8834490
+    },
+    {
+        "id":  "kakak",
+        "title":  "Kakak",
+        "file":  "kakak.mp3",
+        "repo":  2,
+        "path":  "kakak.mp3",
+        "size":  26414480
+    },
+    {
+        "id":  "kapasan_kemiri",
+        "title":  "Kapasan Kemiri",
+        "file":  "kapasan_kemiri.mp3",
+        "repo":  2,
+        "path":  "kapasan_kemiri.mp3",
+        "size":  6977591
+    },
+    {
+        "id":  "kapas_tembak",
+        "title":  "Kapas Tembak",
+        "file":  "kapas_tembak.mp3",
+        "repo":  2,
+        "path":  "kapas_tembak.mp3",
+        "size":  9580210
+    },
+    {
+        "id":  "kapas_tembak_betina",
+        "title":  "Kapas Tembak Betina",
+        "file":  "kapas_tembak_betina.mp3",
+        "repo":  2,
+        "path":  "kapas_tembak_betina.mp3",
+        "size":  27409162
+    },
+    {
+        "id":  "kapas_tembak_jenggot",
+        "title":  "Kapas Tembak Jenggot",
+        "file":  "kapas_tembak_jenggot.mp3",
+        "repo":  2,
+        "path":  "kapas_tembak_jenggot.mp3",
+        "size":  25444149
+    },
+    {
+        "id":  "kapas_tembak_pelatuk_bawang_srindit",
+        "title":  "Kapas Tembak Pelatuk Bawang Srindit",
+        "file":  "kapas_tembak_pelatuk_bawang_srindit.mp3",
+        "repo":  2,
+        "path":  "kapas_tembak_pelatuk_bawang_srindit.mp3",
+        "size":  13215003
+    },
+    {
+        "id":  "kapas_tembak_tanpa_air",
+        "title":  "Kapas Tembak Tanpa Air",
+        "file":  "kapas_tembak_tanpa_air.mp3",
+        "repo":  2,
+        "path":  "kapas_tembak_tanpa_air.mp3",
+        "size":  11600169
+    },
+    {
+        "id":  "kenari_cililin_cungkok_kapas_tembak",
+        "title":  "Kenari Cililin Cungkok Kapas Tembak",
+        "file":  "kenari_cililin_cungkok_kapas_tembak.mp3",
+        "repo":  2,
+        "path":  "kenari_cililin_cungkok_kapas_tembak.mp3",
+        "size":  19613051
+    },
+    {
+        "id":  "kenari_gereja_ciblek_cucak_ijo",
+        "title":  "Kenari Gereja Ciblek Cucak Ijo",
+        "file":  "kenari_gereja_ciblek_cucak_ijo.mp3",
+        "repo":  2,
+        "path":  "kenari_gereja_ciblek_cucak_ijo.mp3",
+        "size":  11743936
+    },
+    {
+        "id":  "kenari_gereja_kawin",
+        "title":  "Kenari Gereja Kawin",
+        "file":  "kenari_gereja_kawin.mp3",
+        "repo":  2,
+        "path":  "kenari_gereja_kawin.mp3",
+        "size":  13992785
+    },
+    {
+        "id":  "kenari_isi_sikatan_londo",
+        "title":  "Kenari Isi Sikatan Londo",
+        "file":  "kenari_isi_sikatan_londo.mp3",
+        "repo":  2,
+        "path":  "kenari_isi_sikatan_londo.mp3",
+        "size":  5870599
+    },
+    {
+        "id":  "kenari_kapas_tembak_cucak_jenggot_cililin",
+        "title":  "Kenari Kapas Tembak Cucak Jenggot Cililin",
+        "file":  "kenari_kapas_tembak_cucak_jenggot_cililin.mp3",
+        "repo":  2,
+        "path":  "kenari_kapas_tembak_cucak_jenggot_cililin.mp3",
+        "size":  10716513
+    },
+    {
+        "id":  "kenari_ngeroll",
+        "title":  "Kenari Ngeroll",
+        "file":  "kenari_ngeroll.mp3",
+        "repo":  2,
+        "path":  "kenari_ngeroll.mp3",
+        "size":  6145034
+    },
+    {
+        "id":  "kenari_pelatuk_cililin",
+        "title":  "Kenari Pelatuk Cililin",
+        "file":  "kenari_pelatuk_cililin.mp3",
+        "repo":  2,
+        "path":  "kenari_pelatuk_cililin.mp3",
+        "size":  18625266
+    },
+    {
+        "id":  "kenari_pikat",
+        "title":  "Kenari Pikat",
+        "file":  "kenari_pikat.mp3",
+        "repo":  2,
+        "path":  "kenari_pikat.mp3",
+        "size":  9827004
+    },
+    {
+        "id":  "kenari_platuk_konin",
+        "title":  "Kenari Platuk Konin",
+        "file":  "kenari_platuk_konin.mp3",
+        "repo":  2,
+        "path":  "kenari_platuk_konin.mp3",
+        "size":  27734054
+    },
+    {
+        "id":  "kenari_spanish_timbrado",
+        "title":  "Kenari Spanish Timbrado",
+        "file":  "kenari_spanish_timbrado.mp3",
+        "repo":  2,
+        "path":  "kenari_spanish_timbrado.mp3",
+        "size":  5460364
+    },
+    {
+        "id":  "kenari_speed_lambat",
+        "title":  "Kenari Speed Lambat",
+        "file":  "kenari_speed_lambat.mp3",
+        "repo":  2,
+        "path":  "kenari_speed_lambat.mp3",
+        "size":  7628994
+    },
+    {
+        "id":  "kenari_tanpa_air",
+        "title":  "Kenari Tanpa Air",
+        "file":  "kenari_tanpa_air.mp3",
+        "repo":  2,
+        "path":  "kenari_tanpa_air.mp3",
+        "size":  4934436
+    },
+    {
+        "id":  "kenari_variasi",
+        "title":  "Kenari Variasi",
+        "file":  "kenari_variasi.mp3",
+        "repo":  2,
+        "path":  "kenari_variasi.mp3",
+        "size":  7044132
+    },
+    {
+        "id":  "kenari_yorkshire",
+        "title":  "Kenari Yorkshire",
+        "file":  "kenari_yorkshire.mp3",
+        "repo":  2,
+        "path":  "kenari_yorkshire.mp3",
+        "size":  5831335
+    },
+    {
+        "id":  "kenari_yorkshire_cengkok",
+        "title":  "Kenari Yorkshire Cengkok",
+        "file":  "kenari_yorkshire_cengkok.mp3",
+        "repo":  2,
+        "path":  "kenari_yorkshire_cengkok.mp3",
+        "size":  6438847
+    },
+    {
+        "id":  "kepodang",
+        "title":  "Kepodang",
+        "file":  "kepodang.mp3",
+        "repo":  2,
+        "path":  "kepodang.mp3",
+        "size":  6840364
+    },
+    {
+        "id":  "kerak_basi_alis_hitam",
+        "title":  "Kerak Basi Alis Hitam",
+        "file":  "kerak_basi_alis_hitam.mp3",
+        "repo":  2,
+        "path":  "kerak_basi_alis_hitam.mp3",
+        "size":  6833042
+    },
+    {
+        "id":  "kerak_basi_alis_putih",
+        "title":  "Kerak Basi Alis Putih",
+        "file":  "kerak_basi_alis_putih.mp3",
+        "repo":  2,
+        "path":  "kerak_basi_alis_putih.mp3",
+        "size":  28327508
+    },
+    {
+        "id":  "kerak_basi_roll",
+        "title":  "Kerak Basi Roll",
+        "file":  "kerak_basi_roll.mp3",
+        "repo":  2,
+        "path":  "kerak_basi_roll.mp3",
+        "size":  10512080
+    },
+    {
+        "id":  "ketawa",
+        "title":  "Ketawa",
+        "file":  "ketawa.mp3",
+        "repo":  2,
+        "path":  "ketawa.mp3",
+        "size":  65942432
+    },
+    {
+        "id":  "king_konin",
+        "title":  "King Konin",
+        "file":  "king_konin.mp3",
+        "repo":  2,
+        "path":  "king_konin.mp3",
+        "size":  8706217
+    },
+    {
+        "id":  "kinoi_tembakan",
+        "title":  "Kinoi Tembakan",
+        "file":  "kinoi_tembakan.mp3",
+        "repo":  2,
+        "path":  "kinoi_tembakan.mp3",
+        "size":  5314363
+    },
+    {
+        "id":  "kolibri_bahan",
+        "title":  "Kolibri Bahan",
+        "file":  "kolibri_bahan.mp3",
+        "repo":  2,
+        "path":  "kolibri_bahan.mp3",
+        "size":  7013960
+    },
+    {
+        "id":  "kolibri_dada_merah_tanpa_air",
+        "title":  "Kolibri Dada Merah Tanpa Air",
+        "file":  "kolibri_dada_merah_tanpa_air.mp3",
+        "repo":  2,
+        "path":  "kolibri_dada_merah_tanpa_air.mp3",
+        "size":  8384830
+    },
+    {
+        "id":  "kolibri_isian_jenggot_cililin_kapas_tembak",
+        "title":  "Kolibri Isian Jenggot Cililin Kapas Tembak",
+        "file":  "kolibri_isian_jenggot_cililin_kapas_tembak.mp3",
+        "repo":  2,
+        "path":  "kolibri_isian_jenggot_cililin_kapas_tembak.mp3",
+        "size":  8975478
+    },
+    {
+        "id":  "kolibri_kelapa",
+        "title":  "Kolibri Kelapa",
+        "file":  "kolibri_kelapa.mp3",
+        "repo":  2,
+        "path":  "kolibri_kelapa.mp3",
+        "size":  11464087
+    },
+    {
+        "id":  "kolibri_ninja_serindit_siri_siri",
+        "title":  "Kolibri Ninja Serindit Siri Siri",
+        "file":  "kolibri_ninja_serindit_siri_siri.mp3",
+        "repo":  2,
+        "path":  "kolibri_ninja_serindit_siri_siri.mp3",
+        "size":  15145862
+    },
+    {
+        "id":  "kolibri_wulung",
+        "title":  "Kolibri Wulung",
+        "file":  "kolibri_wulung.mp3",
+        "repo":  2,
+        "path":  "kolibri_wulung.mp3",
+        "size":  7677314
+    },
+    {
+        "id":  "konin_dada_coklat",
+        "title":  "Konin Dada Coklat",
+        "file":  "konin_dada_coklat.mp3",
+        "repo":  2,
+        "path":  "konin_dada_coklat.mp3",
+        "size":  8011983
+    },
+    {
+        "id":  "konin_dada_coklat_tanpa_air",
+        "title":  "Konin Dada Coklat Tanpa Air",
+        "file":  "konin_dada_coklat_tanpa_air.mp3",
+        "repo":  2,
+        "path":  "konin_dada_coklat_tanpa_air.mp3",
+        "size":  7967509
+    },
+    {
+        "id":  "konin_dada_merah",
+        "title":  "Konin Dada Merah",
+        "file":  "konin_dada_merah.mp3",
+        "repo":  2,
+        "path":  "konin_dada_merah.mp3",
+        "size":  8549800
+    },
+    {
+        "id":  "konin_tembak",
+        "title":  "Konin Tembak",
+        "file":  "konin_tembak.mp3",
+        "repo":  2,
+        "path":  "konin_tembak.mp3",
+        "size":  14772124
+    },
+    {
+        "id":  "kopi_bos",
+        "title":  "Kopi Bos",
+        "file":  "kopi_bos.mp3",
+        "repo":  2,
+        "path":  "kopi_bos.mp3",
+        "size":  38893265
+    },
+    {
+        "id":  "kopi_kopi_yo",
+        "title":  "Kopi Kopi Yo",
+        "file":  "kopi_kopi_yo.mp3",
+        "repo":  2,
+        "path":  "kopi_kopi_yo.mp3",
+        "size":  48469187
+    },
+    {
+        "id":  "kuntilanak",
+        "title":  "Kuntilanak",
+        "file":  "kuntilanak.mp3",
+        "repo":  2,
+        "path":  "kuntilanak.mp3",
+        "size":  4676234
+    },
+    {
+        "id":  "lb_belalang_jangkrik_pentet",
+        "title":  "Lb Belalang Jangkrik Pentet",
+        "file":  "lb_belalang_jangkrik_pentet.mp3",
+        "repo":  2,
+        "path":  "lb_belalang_jangkrik_pentet.mp3",
+        "size":  12281763
+    },
+    {
+        "id":  "lb_cililin_jenggot_cucak_ijo",
+        "title":  "Lb Cililin Jenggot Cucak Ijo",
+        "file":  "lb_cililin_jenggot_cucak_ijo.mp3",
+        "repo":  2,
+        "path":  "lb_cililin_jenggot_cucak_ijo.mp3",
+        "size":  16494562
+    },
+    {
+        "id":  "lb_kikusimo",
+        "title":  "Lb Kikusimo",
+        "file":  "lb_kikusimo.mp3",
+        "repo":  2,
+        "path":  "lb_kikusimo.mp3",
+        "size":  4609201
+    },
+    {
+        "id":  "lb_mayor",
+        "title":  "Lb Mayor",
+        "file":  "lb_mayor.mp3",
+        "repo":  2,
+        "path":  "lb_mayor.mp3",
+        "size":  4633609
+    },
+    {
+        "id":  "lb_minor_1",
+        "title":  "Lb Minor 1",
+        "file":  "lb_minor_1.mp3",
+        "repo":  2,
+        "path":  "lb_minor_1.mp3",
+        "size":  4318561
+    },
+    {
+        "id":  "lb_tawa",
+        "title":  "Lb Tawa",
+        "file":  "lb_tawa.mp3",
+        "repo":  2,
+        "path":  "lb_tawa.mp3",
+        "size":  6684044
+    },
+    {
+        "id":  "lb_type_1_kunti",
+        "title":  "Lb Type 1 Kunti",
+        "file":  "lb_type_1_kunti.mp3",
+        "repo":  2,
+        "path":  "lb_type_1_kunti.mp3",
+        "size":  4499521
+    },
+    {
+        "id":  "lb_type_2",
+        "title":  "Lb Type 2",
+        "file":  "lb_type_2.mp3",
+        "repo":  2,
+        "path":  "lb_type_2.mp3",
+        "size":  4811569
+    },
+    {
+        "id":  "lb_type_3",
+        "title":  "Lb Type 3",
+        "file":  "lb_type_3.mp3",
+        "repo":  2,
+        "path":  "lb_type_3.mp3",
+        "size":  3948793
+    },
+    {
+        "id":  "linet_gacor",
+        "title":  "Linet Gacor",
+        "file":  "linet_gacor.mp3",
+        "repo":  2,
+        "path":  "linet_gacor.mp3",
+        "size":  4275281
+    },
+    {
+        "id":  "lovebird_pikat",
+        "title":  "Lovebird Pikat",
+        "file":  "lovebird_pikat.mp3",
+        "repo":  2,
+        "path":  "lovebird_pikat.mp3",
+        "size":  1977780
+    },
+    {
+        "id":  "lovebird_serindit_buto",
+        "title":  "Lovebird Serindit Buto",
+        "file":  "lovebird_serindit_buto.mp3",
+        "repo":  2,
+        "path":  "lovebird_serindit_buto.mp3",
+        "size":  18382264
+    },
+    {
+        "id":  "love_bird_jenggot_tengkek_buto",
+        "title":  "Love Bird Jenggot Tengkek Buto",
+        "file":  "love_bird_jenggot_tengkek_buto.mp3",
+        "repo":  2,
+        "path":  "love_bird_jenggot_tengkek_buto.mp3",
+        "size":  14973545
+    },
+    {
+        "id":  "lyrebird",
+        "title":  "Lyrebird",
+        "file":  "lyrebird.mp3",
+        "repo":  2,
+        "path":  "lyrebird.mp3",
+        "size":  5670128
+    },
+    {
+        "id":  "mantenan_new",
+        "title":  "Mantenan New",
+        "file":  "mantenan_new.mp3",
+        "repo":  2,
+        "path":  "mantenan_new.mp3",
+        "size":  4994934
+    },
+    {
+        "id":  "mau_kemana",
+        "title":  "Mau Kemana",
+        "file":  "mau_kemana.mp3",
+        "repo":  2,
+        "path":  "mau_kemana.mp3",
+        "size":  18390566
+    },
+    {
+        "id":  "mozambik",
+        "title":  "Mozambik",
+        "file":  "mozambik.mp3",
+        "repo":  2,
+        "path":  "mozambik.mp3",
+        "size":  5724435
+    },
+    {
+        "id":  "murai_air",
+        "title":  "Murai Air",
+        "file":  "murai_air.mp3",
+        "repo":  2,
+        "path":  "murai_air.mp3",
+        "size":  7055934
+    },
+    {
+        "id":  "murai_batu_baharok",
+        "title":  "Murai Batu Baharok",
+        "file":  "murai_batu_baharok.mp3",
+        "repo":  2,
+        "path":  "murai_batu_baharok.mp3",
+        "size":  6259161
+    },
+    {
+        "id":  "murai_batu_gacor",
+        "title":  "Murai Batu Gacor",
+        "file":  "murai_batu_gacor.mp3",
+        "repo":  2,
+        "path":  "murai_batu_gacor.mp3",
+        "size":  7289918
+    },
+    {
+        "id":  "murai_batu_isi_buto",
+        "title":  "Murai Batu Isi Buto",
+        "file":  "murai_batu_isi_buto.mp3",
+        "repo":  2,
+        "path":  "murai_batu_isi_buto.mp3",
+        "size":  5919129
+    },
+    {
+        "id":  "murai_batu_isi_cililin",
+        "title":  "Murai Batu Isi Cililin",
+        "file":  "murai_batu_isi_cililin.mp3",
+        "repo":  2,
+        "path":  "murai_batu_isi_cililin.mp3",
+        "size":  5336883
+    },
+    {
+        "id":  "murai_batu_isi_cungkok",
+        "title":  "Murai Batu Isi Cungkok",
+        "file":  "murai_batu_isi_cungkok.mp3",
+        "repo":  2,
+        "path":  "murai_batu_isi_cungkok.mp3",
+        "size":  5171896
+    },
+    {
+        "id":  "murai_batu_isi_kenari",
+        "title":  "Murai Batu Isi Kenari",
+        "file":  "murai_batu_isi_kenari.mp3",
+        "repo":  2,
+        "path":  "murai_batu_isi_kenari.mp3",
+        "size":  4311697
+    },
+    {
+        "id":  "murai_batu_isi_lovebird",
+        "title":  "Murai Batu Isi Lovebird",
+        "file":  "murai_batu_isi_lovebird.mp3",
+        "repo":  2,
+        "path":  "murai_batu_isi_lovebird.mp3",
+        "size":  4312086
+    },
+    {
+        "id":  "murai_batu_juara_nasional",
+        "title":  "Murai Batu Juara Nasional",
+        "file":  "murai_batu_juara_nasional.mp3",
+        "repo":  2,
+        "path":  "murai_batu_juara_nasional.mp3",
+        "size":  4843391
+    },
+    {
+        "id":  "murai_batu_lampung",
+        "title":  "Murai Batu Lampung",
+        "file":  "murai_batu_lampung.mp3",
+        "repo":  2,
+        "path":  "murai_batu_lampung.mp3",
+        "size":  4711220
+    },
+    {
+        "id":  "murai_batu_natalia_tembakan_panjang",
+        "title":  "Murai Batu Natalia Tembakan Panjang",
+        "file":  "murai_batu_natalia_tembakan_panjang.mp3",
+        "repo":  2,
+        "path":  "murai_batu_natalia_tembakan_panjang.mp3",
+        "size":  4253457
+    },
+    {
+        "id":  "murai_batu_pikat",
+        "title":  "Murai Batu Pikat",
+        "file":  "murai_batu_pikat.mp3",
+        "repo":  2,
+        "path":  "murai_batu_pikat.mp3",
+        "size":  3157753
+    },
+    {
+        "id":  "murai_batu_plangka",
+        "title":  "Murai Batu Plangka",
+        "file":  "murai_batu_plangka.mp3",
+        "repo":  2,
+        "path":  "murai_batu_plangka.mp3",
+        "size":  5265347
+    },
+    {
+        "id":  "murai_borneo",
+        "title":  "Murai Borneo",
+        "file":  "murai_borneo.mp3",
+        "repo":  2,
+        "path":  "murai_borneo.mp3",
+        "size":  12967171
+    },
+    {
+        "id":  "murai_haji",
+        "title":  "Murai Haji",
+        "file":  "murai_haji.mp3",
+        "repo":  2,
+        "path":  "murai_haji.mp3",
+        "size":  8853386
+    },
+    {
+        "id":  "nuri",
+        "title":  "Nuri",
+        "file":  "nuri.mp3",
+        "repo":  2,
+        "path":  "nuri.mp3",
+        "size":  6515061
+    },
+    {
+        "id":  "nuri_dora",
+        "title":  "Nuri Dora",
+        "file":  "nuri_dora.mp3",
+        "repo":  2,
+        "path":  "nuri_dora.mp3",
+        "size":  2755429
+    },
+    {
+        "id":  "nuri_kepala_hitam",
+        "title":  "Nuri Kepala Hitam",
+        "file":  "nuri_kepala_hitam.mp3",
+        "repo":  2,
+        "path":  "nuri_kepala_hitam.mp3",
+        "size":  4873642
+    },
+    {
+        "id":  "nuri_talaud",
+        "title":  "Nuri Talaud",
+        "file":  "nuri_talaud.mp3",
+        "repo":  2,
+        "path":  "nuri_talaud.mp3",
+        "size":  3288887
+    },
+    {
+        "id":  "nuri_tanau",
+        "title":  "Nuri Tanau",
+        "file":  "nuri_tanau.mp3",
+        "repo":  2,
+        "path":  "nuri_tanau.mp3",
+        "size":  2739817
+    },
+    {
+        "id":  "om_telolet_om",
+        "title":  "Om Telolet Om",
+        "file":  "om_telolet_om.mp3",
+        "repo":  2,
+        "path":  "om_telolet_om.mp3",
+        "size":  22032644
+    },
+    {
+        "id":  "pancawarna_betina",
+        "title":  "Pancawarna Betina",
+        "file":  "pancawarna_betina.mp3",
+        "repo":  3,
+        "path":  "pancawarna_betina.mp3",
+        "size":  5348905
+    },
+    {
+        "id":  "pancawarna_gacor",
+        "title":  "Pancawarna Gacor",
+        "file":  "pancawarna_gacor.mp3",
+        "repo":  3,
+        "path":  "pancawarna_gacor.mp3",
+        "size":  17129301
+    },
+    {
+        "id":  "pelatuk_bawang",
+        "title":  "Pelatuk Bawang",
+        "file":  "pelatuk_bawang.mp3",
+        "repo":  3,
+        "path":  "pelatuk_bawang.mp3",
+        "size":  6439524
+    },
+    {
+        "id":  "pelatuk_beras",
+        "title":  "Pelatuk Beras",
+        "file":  "pelatuk_beras.mp3",
+        "repo":  3,
+        "path":  "pelatuk_beras.mp3",
+        "size":  6544324
+    },
+    {
+        "id":  "pelatuk_beras_sikatan_londo_branjangan_nembk",
+        "title":  "Pelatuk Beras Sikatan Londo Branjangan Nembk",
+        "file":  "pelatuk_beras_sikatan_londo_branjangan_nembk.mp3",
+        "repo":  3,
+        "path":  "pelatuk_beras_sikatan_londo_branjangan_nembk.mp3",
+        "size":  13839932
+    },
+    {
+        "id":  "pelatuk_sampit",
+        "title":  "Pelatuk Sampit",
+        "file":  "pelatuk_sampit.mp3",
+        "repo":  3,
+        "path":  "pelatuk_sampit.mp3",
+        "size":  5538081
+    },
+    {
+        "id":  "perkutut_bangkok_juara_lomba",
+        "title":  "Perkutut Bangkok Juara Lomba",
+        "file":  "perkutut_bangkok_juara_lomba.mp3",
+        "repo":  3,
+        "path":  "perkutut_bangkok_juara_lomba.mp3",
+        "size":  2751481
+    },
+    {
+        "id":  "perkutut_krosingan",
+        "title":  "Perkutut Krosingan",
+        "file":  "perkutut_krosingan.mp3",
+        "repo":  3,
+        "path":  "perkutut_krosingan.mp3",
+        "size":  4112438
+    },
+    {
+        "id":  "perkutut_lokal_juara_2",
+        "title":  "Perkutut Lokal Juara 2",
+        "file":  "perkutut_lokal_juara_2.mp3",
+        "repo":  3,
+        "path":  "perkutut_lokal_juara_2.mp3",
+        "size":  3254257
+    },
+    {
+        "id":  "perkutut_lokal_juara_nasional",
+        "title":  "Perkutut Lokal Juara Nasional",
+        "file":  "perkutut_lokal_juara_nasional.mp3",
+        "repo":  3,
+        "path":  "perkutut_lokal_juara_nasional.mp3",
+        "size":  2940913
+    },
+    {
+        "id":  "perkutut_new2",
+        "title":  "Perkutut New2",
+        "file":  "perkutut_new2.mp3",
+        "repo":  3,
+        "path":  "perkutut_new2.mp3",
+        "size":  3923161
+    },
+    {
+        "id":  "pijantung",
+        "title":  "Pijantung",
+        "file":  "pijantung.mp3",
+        "repo":  3,
+        "path":  "pijantung.mp3",
+        "size":  5444076
+    },
+    {
+        "id":  "pikat_semua_jenis_burung_1",
+        "title":  "Pikat Semua Jenis Burung 1",
+        "file":  "pikat_semua_jenis_burung_1.mp3",
+        "repo":  3,
+        "path":  "pikat_semua_jenis_burung_1.mp3",
+        "size":  4951993
+    },
+    {
+        "id":  "pikat_semua_jenis_burung_2",
+        "title":  "Pikat Semua Jenis Burung 2",
+        "file":  "pikat_semua_jenis_burung_2.mp3",
+        "repo":  3,
+        "path":  "pikat_semua_jenis_burung_2.mp3",
+        "size":  3630361
+    },
+    {
+        "id":  "pikat_semua_jenis_burung_kecil",
+        "title":  "Pikat Semua Jenis Burung Kecil",
+        "file":  "pikat_semua_jenis_burung_kecil.mp3",
+        "repo":  3,
+        "path":  "pikat_semua_jenis_burung_kecil.mp3",
+        "size":  15411241
+    },
+    {
+        "id":  "pleci",
+        "title":  "Pleci",
+        "file":  "pleci.mp3",
+        "repo":  3,
+        "path":  "pleci.mp3",
+        "size":  5589209
+    },
+    {
+        "id":  "pleci_betina",
+        "title":  "Pleci Betina",
+        "file":  "pleci_betina.mp3",
+        "repo":  3,
+        "path":  "pleci_betina.mp3",
+        "size":  6277577
+    },
+    {
+        "id":  "pleci_mounty",
+        "title":  "Pleci Mounty",
+        "file":  "pleci_mounty.mp3",
+        "repo":  3,
+        "path":  "pleci_mounty.mp3",
+        "size":  6045448
+    },
+    {
+        "id":  "pleci_tembakan_kenari",
+        "title":  "Pleci Tembakan Kenari",
+        "file":  "pleci_tembakan_kenari.mp3",
+        "repo":  3,
+        "path":  "pleci_tembakan_kenari.mp3",
+        "size":  5035473
+    },
+    {
+        "id":  "pleci_tembakan_wit_wit_2",
+        "title":  "Pleci Tembakan Wit Wit 2",
+        "file":  "pleci_tembakan_wit_wit_2.mp3",
+        "repo":  3,
+        "path":  "pleci_tembakan_wit_wit_2.mp3",
+        "size":  5601017
+    },
+    {
+        "id":  "pleci_tembak_wit_wit",
+        "title":  "Pleci Tembak Wit Wit",
+        "file":  "pleci_tembak_wit_wit.mp3",
+        "repo":  3,
+        "path":  "pleci_tembak_wit_wit.mp3",
+        "size":  5095074
+    },
+    {
+        "id":  "pleci_ziper_roll",
+        "title":  "Pleci Ziper Roll",
+        "file":  "pleci_ziper_roll.mp3",
+        "repo":  3,
+        "path":  "pleci_ziper_roll.mp3",
+        "size":  4236738
+    },
+    {
+        "id":  "poksay_hongkong",
+        "title":  "Poksay Hongkong",
+        "file":  "poksay_hongkong.mp3",
+        "repo":  3,
+        "path":  "poksay_hongkong.mp3",
+        "size":  26594360
+    },
+    {
+        "id":  "poksay_jambul_putih",
+        "title":  "Poksay Jambul Putih",
+        "file":  "poksay_jambul_putih.mp3",
+        "repo":  3,
+        "path":  "poksay_jambul_putih.mp3",
+        "size":  26389659
+    },
+    {
+        "id":  "poksay_kuda_super_gacor",
+        "title":  "Poksay Kuda Super Gacor",
+        "file":  "poksay_kuda_super_gacor.mp3",
+        "repo":  3,
+        "path":  "poksay_kuda_super_gacor.mp3",
+        "size":  4537007
+    },
+    {
+        "id":  "poksay_mandarin",
+        "title":  "Poksay Mandarin",
+        "file":  "poksay_mandarin.mp3",
+        "repo":  3,
+        "path":  "poksay_mandarin.mp3",
+        "size":  31211797
+    },
+    {
+        "id":  "poksay_mantel",
+        "title":  "Poksay Mantel",
+        "file":  "poksay_mantel.mp3",
+        "repo":  3,
+        "path":  "poksay_mantel.mp3",
+        "size":  3921551
+    },
+    {
+        "id":  "prenjak_alang",
+        "title":  "Prenjak Alang",
+        "file":  "prenjak_alang.mp3",
+        "repo":  3,
+        "path":  "prenjak_alang.mp3",
+        "size":  5876097
+    },
+    {
+        "id":  "prenjak_betina",
+        "title":  "Prenjak Betina",
+        "file":  "prenjak_betina.mp3",
+        "repo":  3,
+        "path":  "prenjak_betina.mp3",
+        "size":  6044686
+    },
+    {
+        "id":  "prenjak_betina_rambatan",
+        "title":  "Prenjak Betina Rambatan",
+        "file":  "prenjak_betina_rambatan.mp3",
+        "repo":  3,
+        "path":  "prenjak_betina_rambatan.mp3",
+        "size":  30159858
+    },
+    {
+        "id":  "prenjak_jantan",
+        "title":  "Prenjak Jantan",
+        "file":  "prenjak_jantan.mp3",
+        "repo":  3,
+        "path":  "prenjak_jantan.mp3",
+        "size":  6138049
+    },
+    {
+        "id":  "prenjak_kepala_merah_betina",
+        "title":  "Prenjak Kepala Merah Betina",
+        "file":  "prenjak_kepala_merah_betina.mp3",
+        "repo":  3,
+        "path":  "prenjak_kepala_merah_betina.mp3",
+        "size":  6192431
+    },
+    {
+        "id":  "prenjak_kepala_merah_betina_pikat",
+        "title":  "Prenjak Kepala Merah Betina Pikat",
+        "file":  "prenjak_kepala_merah_betina_pikat.mp3",
+        "repo":  3,
+        "path":  "prenjak_kepala_merah_betina_pikat.mp3",
+        "size":  2504713
+    },
+    {
+        "id":  "prenjak_kepala_merah_pikat",
+        "title":  "Prenjak Kepala Merah Pikat",
+        "file":  "prenjak_kepala_merah_pikat.mp3",
+        "repo":  3,
+        "path":  "prenjak_kepala_merah_pikat.mp3",
+        "size":  2879449
+    },
+    {
+        "id":  "prenjak_sepasang_gacor",
+        "title":  "Prenjak Sepasang Gacor",
+        "file":  "prenjak_sepasang_gacor.mp3",
+        "repo":  3,
+        "path":  "prenjak_sepasang_gacor.mp3",
+        "size":  5946771
+    },
+    {
+        "id":  "punai_pikat",
+        "title":  "Punai Pikat",
+        "file":  "punai_pikat.mp3",
+        "repo":  3,
+        "path":  "punai_pikat.mp3",
+        "size":  8207761
+    },
+    {
+        "id":  "puter_pelung_suara",
+        "title":  "Puter Pelung Suara",
+        "file":  "puter_pelung_suara.mp3",
+        "repo":  3,
+        "path":  "puter_pelung_suara.mp3",
+        "size":  4128772
+    },
+    {
+        "id":  "rambatan",
+        "title":  "Rambatan",
+        "file":  "rambatan.mp3",
+        "repo":  3,
+        "path":  "rambatan.mp3",
+        "size":  5153073
+    },
+    {
+        "id":  "rambatan_doraemon",
+        "title":  "Rambatan Doraemon",
+        "file":  "rambatan_doraemon.mp3",
+        "repo":  3,
+        "path":  "rambatan_doraemon.mp3",
+        "size":  5879184
+    },
+    {
+        "id":  "rambatan_kenari",
+        "title":  "Rambatan Kenari",
+        "file":  "rambatan_kenari.mp3",
+        "repo":  3,
+        "path":  "rambatan_kenari.mp3",
+        "size":  25830786
+    },
+    {
+        "id":  "rambatan_paruh_merah_jantan",
+        "title":  "Rambatan Paruh Merah Jantan",
+        "file":  "rambatan_paruh_merah_jantan.mp3",
+        "repo":  3,
+        "path":  "rambatan_paruh_merah_jantan.mp3",
+        "size":  3848864
+    },
+    {
+        "id":  "red_fox_bird",
+        "title":  "Red Fox Bird",
+        "file":  "red_fox_bird.mp3",
+        "repo":  3,
+        "path":  "red_fox_bird.mp3",
+        "size":  4925776
+    },
+    {
+        "id":  "red_siskin",
+        "title":  "Red Siskin",
+        "file":  "red_siskin.mp3",
+        "repo":  3,
+        "path":  "red_siskin.mp3",
+        "size":  4679152
+    },
+    {
+        "id":  "remetuk_laut",
+        "title":  "Remetuk Laut",
+        "file":  "remetuk_laut.mp3",
+        "repo":  3,
+        "path":  "remetuk_laut.mp3",
+        "size":  3849016
+    },
+    {
+        "id":  "robin_betina",
+        "title":  "Robin Betina",
+        "file":  "robin_betina.mp3",
+        "repo":  3,
+        "path":  "robin_betina.mp3",
+        "size":  5919399
+    },
+    {
+        "id":  "robin_gacor",
+        "title":  "Robin Gacor",
+        "file":  "robin_gacor.mp3",
+        "repo":  3,
+        "path":  "robin_gacor.mp3",
+        "size":  3224313
+    },
+    {
+        "id":  "ruak_ruak",
+        "title":  "Ruak Ruak",
+        "file":  "ruak_ruak.mp3",
+        "repo":  3,
+        "path":  "ruak_ruak.mp3",
+        "size":  16192162
+    },
+    {
+        "id":  "ruak_ruak_2",
+        "title":  "Ruak Ruak 2",
+        "file":  "ruak_ruak_2.mp3",
+        "repo":  3,
+        "path":  "ruak_ruak_2.mp3",
+        "size":  18920665
+    },
+    {
+        "id":  "samyong",
+        "title":  "Samyong",
+        "file":  "samyong.mp3",
+        "repo":  3,
+        "path":  "samyong.mp3",
+        "size":  8156012
+    },
+    {
+        "id":  "samyong_bhs_sirih2",
+        "title":  "Samyong Bhs Sirih2",
+        "file":  "samyong_bhs_sirih2.mp3",
+        "repo":  3,
+        "path":  "samyong_bhs_sirih2.mp3",
+        "size":  7071736
+    },
+    {
+        "id":  "sanger",
+        "title":  "Sanger",
+        "file":  "sanger.mp3",
+        "repo":  3,
+        "path":  "sanger.mp3",
+        "size":  4666408
+    },
+    {
+        "id":  "selamat_malam",
+        "title":  "Selamat Malam",
+        "file":  "selamat_malam.mp3",
+        "repo":  3,
+        "path":  "selamat_malam.mp3",
+        "size":  53812225
+    },
+    {
+        "id":  "selamat_pagi",
+        "title":  "Selamat Pagi",
+        "file":  "selamat_pagi.mp3",
+        "repo":  3,
+        "path":  "selamat_pagi.mp3",
+        "size":  12595129
+    },
+    {
+        "id":  "selamat_pagi_bos",
+        "title":  "Selamat Pagi Bos",
+        "file":  "selamat_pagi_bos.mp3",
+        "repo":  3,
+        "path":  "selamat_pagi_bos.mp3",
+        "size":  37364561
+    },
+    {
+        "id":  "selamat_siang",
+        "title":  "Selamat Siang",
+        "file":  "selamat_siang.mp3",
+        "repo":  3,
+        "path":  "selamat_siang.mp3",
+        "size":  10581717
+    },
+    {
+        "id":  "selamat_sore",
+        "title":  "Selamat Sore",
+        "file":  "selamat_sore.mp3",
+        "repo":  3,
+        "path":  "selamat_sore.mp3",
+        "size":  10938673
+    },
+    {
+        "id":  "semangat",
+        "title":  "Semangat",
+        "file":  "semangat.mp3",
+        "repo":  3,
+        "path":  "semangat.mp3",
+        "size":  31622810
+    },
+    {
+        "id":  "sepah_raja_gacor",
+        "title":  "Sepah Raja Gacor",
+        "file":  "sepah_raja_gacor.mp3",
+        "repo":  3,
+        "path":  "sepah_raja_gacor.mp3",
+        "size":  3733177
+    },
+    {
+        "id":  "serindit",
+        "title":  "Serindit",
+        "file":  "serindit.mp3",
+        "repo":  3,
+        "path":  "serindit.mp3",
+        "size":  6041340
+    },
+    {
+        "id":  "siamang",
+        "title":  "Siamang",
+        "file":  "siamang.mp3",
+        "repo":  3,
+        "path":  "siamang.mp3",
+        "size":  4104241
+    },
+    {
+        "id":  "sikatan_londo",
+        "title":  "Sikatan Londo",
+        "file":  "sikatan_londo.mp3",
+        "repo":  3,
+        "path":  "sikatan_londo.mp3",
+        "size":  5392897
+    },
+    {
+        "id":  "sikatan_londo_branjangan_cucak_jenggot",
+        "title":  "Sikatan Londo Branjangan Cucak Jenggot",
+        "file":  "sikatan_londo_branjangan_cucak_jenggot.mp3",
+        "repo":  3,
+        "path":  "sikatan_londo_branjangan_cucak_jenggot.mp3",
+        "size":  18542699
+    },
+    {
+        "id":  "sikatan_londo_cililin_poksay_hongkong",
+        "title":  "Sikatan Londo Cililin Poksay Hongkong",
+        "file":  "sikatan_londo_cililin_poksay_hongkong.mp3",
+        "repo":  3,
+        "path":  "sikatan_londo_cililin_poksay_hongkong.mp3",
+        "size":  7708487
+    },
+    {
+        "id":  "sikatan_londo_lambat",
+        "title":  "Sikatan Londo Lambat",
+        "file":  "sikatan_londo_lambat.mp3",
+        "repo":  3,
+        "path":  "sikatan_londo_lambat.mp3",
+        "size":  5466778
+    },
+    {
+        "id":  "sikatan_rimba",
+        "title":  "Sikatan Rimba",
+        "file":  "sikatan_rimba.mp3",
+        "repo":  3,
+        "path":  "sikatan_rimba.mp3",
+        "size":  4883202
+    },
+    {
+        "id":  "sirih_sirih",
+        "title":  "Sirih Sirih",
+        "file":  "sirih_sirih.mp3",
+        "repo":  3,
+        "path":  "sirih_sirih.mp3",
+        "size":  4318942
+    },
+    {
+        "id":  "sirindik_gereja_tarung_cililin_jangrik_kapas_tembak_sogok_otong_belalang_emas_lovebird",
+        "title":  "Sirindik Gereja Tarung Cililin Jangrik Kapas Tembak Sogok Otong Belalang Emas Lovebird",
+        "file":  "sirindik_gereja_tarung_cililin_jangrik_kapas_tembak_sogok_otong_belalang_emas_lovebird.mp3",
+        "repo":  3,
+        "path":  "sirindik_gereja_tarung_cililin_jangrik_kapas_tembak_sogok_otong_belalang_emas_lovebird.mp3",
+        "size":  18303863
+    },
+    {
+        "id":  "sirtu",
+        "title":  "Sirtu",
+        "file":  "sirtu.mp3",
+        "repo":  3,
+        "path":  "sirtu.mp3",
+        "size":  7927000
+    },
+    {
+        "id":  "siulan_doraemon_untuk_burung_falk",
+        "title":  "Siulan Doraemon Untuk Burung Falk",
+        "file":  "siulan_doraemon_untuk_burung_falk.mp3",
+        "repo":  3,
+        "path":  "siulan_doraemon_untuk_burung_falk.mp3",
+        "size":  47498408
+    },
+    {
+        "id":  "siul_genit",
+        "title":  "Siul Genit",
+        "file":  "siul_genit.mp3",
+        "repo":  3,
+        "path":  "siul_genit.mp3",
+        "size":  35871084
+    },
+    {
+        "id":  "sniper_burung",
+        "title":  "Sniper Burung",
+        "file":  "sniper_burung.mp3",
+        "repo":  3,
+        "path":  "sniper_burung.mp3",
+        "size":  5041743
+    },
+    {
+        "id":  "sniper_yuhina_sanger",
+        "title":  "Sniper Yuhina Sanger",
+        "file":  "sniper_yuhina_sanger.mp3",
+        "repo":  3,
+        "path":  "sniper_yuhina_sanger.mp3",
+        "size":  13463136
+    },
+    {
+        "id":  "sogok_ontong",
+        "title":  "Sogok Ontong",
+        "file":  "sogok_ontong.mp3",
+        "repo":  3,
+        "path":  "sogok_ontong.mp3",
+        "size":  4790286
+    },
+    {
+        "id":  "sogok_ontong_jenggot_pentet",
+        "title":  "Sogok Ontong Jenggot Pentet",
+        "file":  "sogok_ontong_jenggot_pentet.mp3",
+        "repo":  3,
+        "path":  "sogok_ontong_jenggot_pentet.mp3",
+        "size":  9552950
+    },
+    {
+        "id":  "sogok_ontong_rambatan",
+        "title":  "Sogok Ontong Rambatan",
+        "file":  "sogok_ontong_rambatan.mp3",
+        "repo":  3,
+        "path":  "sogok_ontong_rambatan.mp3",
+        "size":  26569004
+    },
+    {
+        "id":  "srigunting",
+        "title":  "Srigunting",
+        "file":  "srigunting.mp3",
+        "repo":  3,
+        "path":  "srigunting.mp3",
+        "size":  5706643
+    },
+    {
+        "id":  "srigunting_kelabu_tembak_rapat",
+        "title":  "Srigunting Kelabu Tembak Rapat",
+        "file":  "srigunting_kelabu_tembak_rapat.mp3",
+        "repo":  3,
+        "path":  "srigunting_kelabu_tembak_rapat.mp3",
+        "size":  4685734
+    },
+    {
+        "id":  "sriti",
+        "title":  "Sriti",
+        "file":  "sriti.mp3",
+        "repo":  3,
+        "path":  "sriti.mp3",
+        "size":  4778297
+    },
+    {
+        "id":  "tengkekbuto",
+        "title":  "Tengkekbuto",
+        "file":  "tengkekbuto.mp3",
+        "repo":  3,
+        "path":  "tengkekbuto.mp3",
+        "size":  5651489
+    },
+    {
+        "id":  "tengkek_buto_cililin_cigun_ngebren",
+        "title":  "Tengkek Buto Cililin Cigun Ngebren",
+        "file":  "tengkek_buto_cililin_cigun_ngebren.mp3",
+        "repo":  3,
+        "path":  "tengkek_buto_cililin_cigun_ngebren.mp3",
+        "size":  15869607
+    },
+    {
+        "id":  "tengkek_buto_lambat",
+        "title":  "Tengkek Buto Lambat",
+        "file":  "tengkek_buto_lambat.mp3",
+        "repo":  3,
+        "path":  "tengkek_buto_lambat.mp3",
+        "size":  3049117
+    },
+    {
+        "id":  "tengkek_buto_standart",
+        "title":  "Tengkek Buto Standart",
+        "file":  "tengkek_buto_standart.mp3",
+        "repo":  3,
+        "path":  "tengkek_buto_standart.mp3",
+        "size":  5088338
+    },
+    {
+        "id":  "tengkek_udang",
+        "title":  "Tengkek Udang",
+        "file":  "tengkek_udang.mp3",
+        "repo":  3,
+        "path":  "tengkek_udang.mp3",
+        "size":  5473240
+    },
+    {
+        "id":  "tengkek_udang_tanpa_air",
+        "title":  "Tengkek Udang Tanpa Air",
+        "file":  "tengkek_udang_tanpa_air.mp3",
+        "repo":  3,
+        "path":  "tengkek_udang_tanpa_air.mp3",
+        "size":  3111353
+    },
+    {
+        "id":  "tengklek_buto_cililin_kapas_tembak",
+        "title":  "Tengklek Buto Cililin Kapas Tembak",
+        "file":  "tengklek_buto_cililin_kapas_tembak.mp3",
+        "repo":  3,
+        "path":  "tengklek_buto_cililin_kapas_tembak.mp3",
+        "size":  57410083
+    },
+    {
+        "id":  "tengklek_buto_jenggot_kapas_tembak_kenari",
+        "title":  "Tengklek Buto Jenggot Kapas Tembak Kenari",
+        "file":  "tengklek_buto_jenggot_kapas_tembak_kenari.mp3",
+        "repo":  3,
+        "path":  "tengklek_buto_jenggot_kapas_tembak_kenari.mp3",
+        "size":  20293226
+    },
+    {
+        "id":  "terapi_air",
+        "title":  "Terapi Air",
+        "file":  "terapi_air.mp3",
+        "repo":  3,
+        "path":  "terapi_air.mp3",
+        "size":  10486170
+    },
+    {
+        "id":  "terapi_brainwave_untuk_otak_burung_mp3",
+        "title":  "Terapi Brainwave Untuk Otak Burung Mp3",
+        "file":  "terapi_brainwave_untuk_otak_burung_mp3.mp3",
+        "repo":  3,
+        "path":  "terapi_brainwave_untuk_otak_burung_mp3.mp3",
+        "size":  4315050
+    },
+    {
+        "id":  "terapi_cucak_ijo_air",
+        "title":  "Terapi Cucak Ijo Air",
+        "file":  "terapi_cucak_ijo_air.mp3",
+        "repo":  3,
+        "path":  "terapi_cucak_ijo_air.mp3",
+        "size":  40662482
+    },
+    {
+        "id":  "terapi_emosi_kacer",
+        "title":  "Terapi Emosi Kacer",
+        "file":  "terapi_emosi_kacer.mp3",
+        "repo":  3,
+        "path":  "terapi_emosi_kacer.mp3",
+        "size":  11009740
+    },
+    {
+        "id":  "terapi_latih_mental_simulasi_lomba_lovebird_terbaru",
+        "title":  "Terapi Latih Mental Simulasi Lomba Lovebird Terbaru",
+        "file":  "terapi_latih_mental_simulasi_lomba_lovebird_terbaru.mp3",
+        "repo":  3,
+        "path":  "terapi_latih_mental_simulasi_lomba_lovebird_terbaru.mp3",
+        "size":  73942889
+    },
+    {
+        "id":  "terapi_lovebird_relaksasi_suara_air_dan_lovebird_ngetik_ngekek_bersautan",
+        "title":  "Terapi Lovebird Relaksasi Suara Air Dan Lovebird Ngetik Ngekek Bersautan",
+        "file":  "terapi_lovebird_relaksasi_suara_air_dan_lovebird_ngetik_ngekek_bersautan.mp3",
+        "repo":  3,
+        "path":  "terapi_lovebird_relaksasi_suara_air_dan_lovebird_ngetik_ngekek_bersautan.mp3",
+        "size":  14551527
+    },
+    {
+        "id":  "terapi_macet_semua_jenis_burung_suara_alam_di_hutan",
+        "title":  "Terapi Macet Semua Jenis Burung Suara Alam Di Hutan",
+        "file":  "terapi_macet_semua_jenis_burung_suara_alam_di_hutan.mp3",
+        "repo":  3,
+        "path":  "terapi_macet_semua_jenis_burung_suara_alam_di_hutan.mp3",
+        "size":  20235074
+    },
+    {
+        "id":  "terapi_murai_batu_macet",
+        "title":  "Terapi Murai Batu Macet",
+        "file":  "terapi_murai_batu_macet.mp3",
+        "repo":  3,
+        "path":  "terapi_murai_batu_macet.mp3",
+        "size":  57909217
+    },
+    {
+        "id":  "terapi_murai_batu_stress",
+        "title":  "Terapi Murai Batu Stress",
+        "file":  "terapi_murai_batu_stress.mp3",
+        "repo":  3,
+        "path":  "terapi_murai_batu_stress.mp3",
+        "size":  28803237
+    },
+    {
+        "id":  "terapi_murai_batu_stres_gelombang_brainwave",
+        "title":  "Terapi Murai Batu Stres Gelombang Brainwave",
+        "file":  "terapi_murai_batu_stres_gelombang_brainwave.mp3",
+        "repo":  3,
+        "path":  "terapi_murai_batu_stres_gelombang_brainwave.mp3",
+        "size":  57678616
+    },
+    {
+        "id":  "terapi_semua_jenis_burung_kecil_stres_macet_bunyi_dan_suara_air",
+        "title":  "Terapi Semua Jenis Burung Kecil Stres Macet Bunyi Dan Suara Air",
+        "file":  "terapi_semua_jenis_burung_kecil_stres_macet_bunyi_dan_suara_air.mp3",
+        "repo":  3,
+        "path":  "terapi_semua_jenis_burung_kecil_stres_macet_bunyi_dan_suara_air.mp3",
+        "size":  17302533
+    },
+    {
+        "id":  "terima_kasih_bos",
+        "title":  "Terima Kasih Bos",
+        "file":  "terima_kasih_bos.mp3",
+        "repo":  3,
+        "path":  "terima_kasih_bos.mp3",
+        "size":  20139464
+    },
+    {
+        "id":  "thank_u",
+        "title":  "Thank U",
+        "file":  "thank_u.mp3",
+        "repo":  3,
+        "path":  "thank_u.mp3",
+        "size":  57054924
+    },
+    {
+        "id":  "tledekan",
+        "title":  "Tledekan",
+        "file":  "tledekan.mp3",
+        "repo":  3,
+        "path":  "tledekan.mp3",
+        "size":  4829781
+    },
+    {
+        "id":  "tledekan_bakau",
+        "title":  "Tledekan Bakau",
+        "file":  "tledekan_bakau.mp3",
+        "repo":  3,
+        "path":  "tledekan_bakau.mp3",
+        "size":  4618921
+    },
+    {
+        "id":  "trucukan_new_sound",
+        "title":  "Trucukan New Sound",
+        "file":  "trucukan_new_sound.mp3",
+        "repo":  3,
+        "path":  "trucukan_new_sound.mp3",
+        "size":  3947006
+    },
+    {
+        "id":  "tupai_bajing_jelarang_pikat",
+        "title":  "Tupai Bajing Jelarang Pikat",
+        "file":  "tupai_bajing_jelarang_pikat.mp3",
+        "repo":  3,
+        "path":  "tupai_bajing_jelarang_pikat.mp3",
+        "size":  10864645
+    },
+    {
+        "id":  "tupai_bajing_kelapa_pikat",
+        "title":  "Tupai Bajing Kelapa Pikat",
+        "file":  "tupai_bajing_kelapa_pikat.mp3",
+        "repo":  3,
+        "path":  "tupai_bajing_kelapa_pikat.mp3",
+        "size":  5388049
+    },
+    {
+        "id":  "tupai_bajing_pikat",
+        "title":  "Tupai Bajing Pikat",
+        "file":  "tupai_bajing_pikat.mp3",
+        "repo":  3,
+        "path":  "tupai_bajing_pikat.mp3",
+        "size":  3921433
+    },
+    {
+        "id":  "walaikumsalam",
+        "title":  "Walaikumsalam",
+        "file":  "walaikumsalam.mp3",
+        "repo":  3,
+        "path":  "walaikumsalam.mp3",
+        "size":  18734980
+    },
+    {
+        "id":  "walang_kecek_belalang_emas_mayor",
+        "title":  "Walang Kecek Belalang Emas Mayor",
+        "file":  "walang_kecek_belalang_emas_mayor.mp3",
+        "repo":  3,
+        "path":  "walang_kecek_belalang_emas_mayor.mp3",
+        "size":  5752087
+    },
+    {
+        "id":  "walang_kecek_belalang_emas_minor",
+        "title":  "Walang Kecek Belalang Emas Minor",
+        "file":  "walang_kecek_belalang_emas_minor.mp3",
+        "repo":  3,
+        "path":  "walang_kecek_belalang_emas_minor.mp3",
+        "size":  5241555
+    },
+    {
+        "id":  "walang_kecek_lambat1",
+        "title":  "Walang Kecek Lambat1",
+        "file":  "walang_kecek_lambat1.mp3",
+        "repo":  3,
+        "path":  "walang_kecek_lambat1.mp3",
+        "size":  4143433
+    },
+    {
+        "id":  "walang_kecek_standart",
+        "title":  "Walang Kecek Standart",
+        "file":  "walang_kecek_standart.mp3",
+        "repo":  3,
+        "path":  "walang_kecek_standart.mp3",
+        "size":  4818283
+    },
+    {
+        "id":  "wow_keren",
+        "title":  "Wow Keren",
+        "file":  "wow_keren.mp3",
+        "repo":  3,
+        "path":  "wow_keren.mp3",
+        "size":  19394285
+    },
+    {
+        "id":  "wren",
+        "title":  "Wren",
+        "file":  "wren.mp3",
+        "repo":  3,
+        "path":  "wren.mp3",
+        "size":  6012211
+    },
+    {
+        "id":  "yuhina",
+        "title":  "Yuhina",
+        "file":  "yuhina.mp3",
+        "repo":  3,
+        "path":  "yuhina.mp3",
+        "size":  6059967
+    }
+]
